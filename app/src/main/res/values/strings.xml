@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+    <string name="modulus">%</string>
+</resources>
